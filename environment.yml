@@ -1,0 +1,10 @@
+name: als2-iahsp
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13
+  - pip
+  - pandas
+  - plotly
+  - openpyxl
+  - ipywidgets
